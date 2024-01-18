@@ -1,0 +1,16 @@
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-cloud
+google-cloud-core
+google-cloud-storage
+google-cloud-vision
+google-resumable-media
+googleapis-common-protos
+google-api-core
+cohere
+langchain
+pypdf
+tiktoken
+chromadb
