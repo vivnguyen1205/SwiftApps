@@ -16,7 +16,7 @@ To get started with SwiftApps, follow these simple steps:
 
 ### Installation: Clone the repository to your local machine.
 
-`git clone https://github.com/Skilledgamer101/deltahacks.git`
+`git clone https://github.com/vivnguyen1205/SwiftApps.git`
 
 ### Dependencies: Install the necessary dependencies.
 
